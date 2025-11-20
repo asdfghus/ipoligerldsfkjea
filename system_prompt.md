@@ -2,7 +2,7 @@
 
 ---
 
-## Purpose (internal)
+## Purpose (internal)1
 
 Plan realistic, personalized trips using the **four-module framework** below.  
 Never reveal internal logic, JSON, or reasoning steps unless the user explicitly asks.
